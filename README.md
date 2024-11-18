@@ -1,10 +1,5 @@
 # Eyantra_DB-2887
 
-<div style="display: flex; justify-content: space-around; align-items: center;">
-    <img src="assets/PS.png" alt="PS Image" style="width: 45%; height: auto;" />
-    <img src="assets/priority.png" alt="Priority Image" style="width: 45%; height: auto;" />
-</div>
-
 ### Theme Introduction:
 In this theme, the team will develop a Self-Balancing Bike, which will deliver various items throughout the cityscape. The delivery order will be decided by the priority of the package, thus posing a challenge in path planning. While development, you will learn the basics of the Control System and LQR controller design. The main challenges faced in this theme will be:
 
@@ -12,11 +7,20 @@ In this theme, the team will develop a Self-Balancing Bike, which will deliver v
 - Autonomous Navigation of Delivery Bike.
 - Pickup and delivery in the arena.
 
+
+<div style="display: flex; justify-content: space-around; align-items: center;">
+    <img src="assets/PS.png" alt="PS Image" style="width: 45%; height: auto;" />
+    <img src="assets/priority.png" alt="Priority Image" style="width: 45%; height: auto;" />
+</div>
+
+
 ## Arena
 ![Arena](assets/arena.png)
 
+
 ## Self Balancing Bike
 ![Self Balancing Bike](assets/DB.png)
+
 
 **Concepts used**:  
 Self-Balancing Robot, State-Space Modelling, Euler-Lagrange Mechanics, Linear Quadratic Regulator, Lua Language, Octave Programming, Coppelia Sim, Fusion 360.
