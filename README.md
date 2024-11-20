@@ -32,7 +32,6 @@ For sharing resources of the Delivery Bike project in eYRC 2021.
 
 
 ## Our Final Demo Video: 
-[Final Video](https://www.youtube.com/watch?v=rL16adhfV5o)
 [![Theme Implementation](https://i9.ytimg.com/vi_webp/rL16adhfV5o/mq1.webp?sqp=CLjb97kG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgYyhVMA8=&rs=AOn4CLAwt5KyXULKV9w3bREnOxR9LJXO3g)](https://www.youtube.com/watch?v=xKoBW3wclHw)
 
 ## References
